@@ -1,73 +1,80 @@
-# Welcome to your Lovable project
+# Nithin Bommerla - Portfolio
 
-## Project info
+Welcome to my personal portfolio! 🚀
 
-**URL**: https://lovable.dev/projects/22632d4b-ad99-4b73-b2c8-d69c2962ea17
+This website is a collection of my work, projects, and skills. It's designed to showcase my expertise in various areas of technology, including web development, software engineering, and more. 
 
-## How can I edit this code?
+Feel free to explore the site, check out the projects, and reach out if you'd like to collaborate or learn more about what I do!
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 💻 About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/22632d4b-ad99-4b73-b2c8-d69c2962ea17) and start prompting.
+Hi, I'm **Nithin Bommerla**, a passionate web developer and software engineer. I love building beautiful, user-friendly applications and solving complex problems. This portfolio website is a reflection of my work and a showcase of the projects I've been involved in.
 
-Changes made via Lovable will be committed automatically to this repo.
+Some things I love working on:
+- Backend development (SpringBoot, Node.js, django)
+- Frontend development (React, HTML, CSS, JavaScript)
+- Database management (PostgreSQL, MongoDB, MySQL)
+- Version control (Git)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Technologies
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+I work with the following technologies to build my projects:
 
-Follow these steps:
+- **Frontend**: React, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
+- **Backend**: Java Spring Boot, Node.js, REST APIs
+- **Databases**: PostgreSQL, MongoDB, MySQL, Firebase
+- **Version Control**: Git, GitHub
+- **Other Tools**: Docker, Supabase, Netlify, VS Code
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🌍 Contact Me
 
-# Step 3: Install the necessary dependencies.
-npm i
+I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- 📧 Email: [nithinbommerla99@gmail.com](mailto:nithinbommerla@gmail.com)
+- 🐦 Twitter: [@NithinBommerla](https://X.com/nithin_bommerla)
+- 📱 LinkedIn: [Nithin Bommerla](https://www.linkedin.com/in/nithin-bommerla)
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🔗 Links
 
-**Use GitHub Codespaces**
+- [GitHub](https://github.com/NithinBommerla)
+- [LinkedIn](https://www.linkedin.com/in/nithin-bommerla)
+- [Twitter](https://X.com/nithin_bommerla)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🚀 How to Run Locally
 
-This project is built with:
+If you'd like to run this project locally, follow these steps:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/NithinBommerla/nithin-bommerla-portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd nithin-bommerla-portfolio
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the local development server:
+    ```bash
+    npm start
+    ```
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/22632d4b-ad99-4b73-b2c8-d69c2962ea17) and click on Share -> Publish.
+## 📝 License
 
-## Can I connect a custom domain to my Lovable project?
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
