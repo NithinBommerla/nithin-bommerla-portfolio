@@ -109,8 +109,8 @@ const Contact = () => {
               className="bg-transparent backdrop-blur-sm p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800"
             >
               <div className="flex items-center gap-4 mb-4">
-                <div className="bg-primary/10 p-3 rounded-full">
-                  <Mail className="text-primary" size={24} />
+                <div className="bg-primary/10 p-3 rounded-full transition-transform duration-300 hover:scale-110 hover:bg-primary/20">
+                  <Mail className="text-primary transition-transform duration-300 hover:rotate-12" size={24} />
                 </div>
                 <div>
                   <h3 className="font-medium">Email</h3>
@@ -129,8 +129,8 @@ const Contact = () => {
               className="bg-transparent backdrop-blur-sm p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800"
             >
               <div className="flex items-center gap-4 mb-4">
-                <div className="bg-primary/10 p-3 rounded-full">
-                  <Phone className="text-primary" size={24} />
+                <div className="bg-primary/10 p-3 rounded-full transition-transform duration-300 hover:scale-110 hover:bg-primary/20">
+                  <Phone className="text-primary transition-transform duration-300 hover:rotate-12" size={24} />
                 </div>
                 <div>
                   <h3 className="font-medium">Phone</h3>
@@ -149,8 +149,8 @@ const Contact = () => {
               className="bg-transparent backdrop-blur-sm p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 md:col-span-2"
             >
               <div className="flex items-center gap-4 mb-4">
-                <div className="bg-primary/10 p-3 rounded-full">
-                  <MapPin className="text-primary" size={24} />
+                <div className="bg-primary/10 p-3 rounded-full transition-transform duration-300 hover:scale-110 hover:bg-primary/20">
+                  <MapPin className="text-primary transition-transform duration-300 hover:rotate-12" size={24} />
                 </div>
                 <div>
                   <h3 className="font-medium">Location</h3>
@@ -178,10 +178,10 @@ const Contact = () => {
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-transparent backdrop-blur-sm p-3 rounded-full shadow-sm hover:bg-primary hover:text-white dark:hover:text-white transition-colors border border-neutral-200 dark:border-neutral-800 flex items-center justify-center group"
+                  className="bg-transparent backdrop-blur-sm p-3 rounded-full shadow-sm hover:bg-primary hover:text-white dark:hover:text-black dark:hover:bg-white transition-all duration-300 border border-neutral-200 dark:border-neutral-800 flex items-center justify-center group"
                   aria-label={link.label}
                 >
-                  <div className="transition-transform group-hover:scale-125 duration-200">
+                  <div className="transition-all duration-300 group-hover:scale-125 group-hover:rotate-12">
                     {link.icon}
                   </div>
                   <span className="sr-only">{link.name}</span>
